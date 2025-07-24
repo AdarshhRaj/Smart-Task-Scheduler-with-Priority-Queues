@@ -2,6 +2,12 @@
 
 A comprehensive Java-based task management system that allows users to add tasks to a common list and subscribe to receive hourly email reminders for pending tasks.
 
+
+![taskschedulerimage](https://github.com/user-attachments/assets/96145f3e-c42f-405d-bd5e-55cc292eb374)
+
+![task scheduler i9mage](https://github.com/user-attachments/assets/9b7d6b08-a309-40c7-ad74-c1b678a1ef08)
+
+
 ## 🚀 Features
 
 ### ✅ Task Management
@@ -300,8 +306,7 @@ crontab -l
    - Verify Mailpit is running on port 1025
    - Check email service configuration
    - Review cron.log for errors
-  ![taskscheduler image](https://github.com/user-attachments/assets/b074115b-7632-41c9-9fe3-67309cc0f928)
-![task scheduler image 2](https://github.com/user-attachments/assets/6f550ade-a743-478f-b199-47bdd8703f46)
+ 
 
 ## 🤝 Contributing
 
