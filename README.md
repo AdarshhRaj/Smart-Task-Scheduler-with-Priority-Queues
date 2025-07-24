@@ -300,6 +300,8 @@ crontab -l
    - Verify Mailpit is running on port 1025
    - Check email service configuration
    - Review cron.log for errors
+  ![taskscheduler image](https://github.com/user-attachments/assets/b074115b-7632-41c9-9fe3-67309cc0f928)
+![task scheduler image 2](https://github.com/user-attachments/assets/6f550ade-a743-478f-b199-47bdd8703f46)
 
 ## 🤝 Contributing
 
